@@ -21,4 +21,4 @@ This repository contains the code for a basic Body Mass Index (BMI) calculator u
 3. Run the `bmiwebapp.py` script.
 4. Enter your height and weight as prompted.
 
-This BMI calculator application was developed as a web app using the **PyWebIO** library in Python. PyWebIO provides a series of imperative functions to obtain web input and output, which lets you write web applications as if you were writing terminal programs. Make sure to install the PyWebIO library in your Python environment before running this application.
+This BMI calculator application was developed as a web app using the **PyWebIO**  library in Python. PyWebIO provides a series of imperative functions to obtain Web input and output, which lets you write web applications as if you were writing terminal programs. Make sure to install the PyWebIO library in your Python environment before running this application.
